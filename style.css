@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(126, 166, 252);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.nav {
+    background-color: white;
+    height: 40px;
+    text-align: right;
+}
+
+.navbutton {
+    background-color: rgb(14, 117, 219);
+    color: white;
+    font-size: small;
+    margin: 10px;
+    padding: 0px 15px;
+}
+
+.box {
+    background-color: white;
+    color: black;
+    padding-top: 100px;
+    margin: auto;
+    padding: 25px;
+    width: 30%;
+    height: 55%;
+}
+
+h3 {
+    text-align: left;
+}
+
+.form {
+    text-align: center;  
+    width: 100%;  
+}
+
+.forminput {
+    width: 97%;
+}
+
+.formbutton {
+    background-color: rgb(14, 117, 219);
+    color: white;
+    font-size: smallest;
+    width: 100%;
+}
+
+.thirdpartydiv {
+    padding: 2px;
+    text-align: center;
+}
+
+.thirdpartyimages {
+    padding: 5px;
+    width: 25px;
+    height: auto;
+    border-radius: 50%;
+}
